@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/KjMQbqg.png" alt="Logo" />
+  <img src="[https://i.imgur.com/KjMQbqg.png](https://imgur.com/a/prisma-kyrie-logo-mYUxcL8)" alt="Logo" />
 </p>
 
 <div align="center">

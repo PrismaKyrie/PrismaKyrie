@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="[https://i.imgur.com/KjMQbqg.png](https://imgur.com/a/prisma-kyrie-logo-mYUxcL8)" alt="Logo" />
+  <img src="https://github.com/PrismaKyrie/PrismaKyrie/blob/332a4f6df7b2f8e0f589797399d7555e888bc185/prismakyrie.png" alt="Logo" width="400" height="225">
 </p>
+
+
+
 
 <div align="center">
 

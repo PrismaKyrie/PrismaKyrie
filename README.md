@@ -19,14 +19,14 @@
 
 ---
 
-Self-taught malware nerd turned aspiring ethical hacker. Cut my teeth on Roblox Lua, VBScript prank viruses, and cursed Batch scripts. OSRS and World of Warcraft enjoyer—yes, I’ve clicked on more rats than I’ve written lines of code. Currently studying cybersecurity, chasing certs (Google Cybersecurity now, OSCP next), and fueled by anime, gacha salt, and questionable sleep cycles. I break things legally—*mostly.*
+Self-taught malware nerd turned aspiring ethical hacker. Cut my teeth on Roblox Lua, VBScript prank viruses, and cursed Batch scripts. OSRS and World of Warcraft enjoyer—yes, I’ve clicked on more rats than I’ve written lines of code. Currently studying cybersecurity, chasing certs and fueled by anime, gacha salt, and questionable sleep cycles. I break things legally—*mostly.*
 
 - 🧠 Self-taught digital gremlin since 2012.  
 - 🛠️ Tinkering with malware and hacking tools (ethically, promise).  
 - 🛡️ Learning how to stop the bad guys before they CTRL+ALT+RUIN everything.  
 - 🎮 Former Roblox dev, former aspiring game dev, current cybersecurity hopeful.  
 - 💻 Languages I started with: Batch, VBScript, and other cursed relics.  
-- 📚 Currently grinding the Google Cybersecurity Certificate.  
+- 🥇 Completed the Google Cybersecurity Certificate on May 1st, 2025  
 - 🎯 OSCP? Coming for you in 2025.  
 
 ---
